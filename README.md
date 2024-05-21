@@ -1,1 +1,18 @@
-# FichaLua_PlacidoPina1105951
+Lua
+Propósito: Lua es un lenguaje de programación diseñado para ser ligero, embebible y altamente extendible. Su propósito principal es proporcionar un lenguaje de scripting eficiente y flexible que pueda ser integrado en aplicaciones más grandes, permitiendo la personalización y extensión de estas sin sacrificar rendimiento. Lua es utilizado frecuentemente en videojuegos, sistemas embebidos, y otras aplicaciones donde la eficiencia y la flexibilidad son cruciales.
+Paradigma: Multiparadigma [Imperativo, funcional y basado en prototipos].
+Fortalezas y debilidades: 
+	Fortalezas: Ligereza, Flexibilidad, Rendimiento y Facilidad de Aprendizaje.
+	Debilidades: Menos común, Tipado débil.	
+Implementación: Interpretado.
+Runtime / Máquina Virtual: Máquina Virtual.
+Plataformas soportadas: Windows (x86 y x64), Linux, MacOs.
+Usuarios notables: 
+	Blizzard Entertainment (utilizado en World of Warcraft y otros juegos), Electronic Arts, y Mojang (Minecraft).
+	Cisco Systems: Dispositivos de red para implementar funciones de configuración y automatización.
+	Adobe Systems (utilizado en Adobe Lightroom), NXP Semiconductors, y Roku.
+	VLC Media Player: Utiliza Lua para la personalización y extensión de su funcionalidad a través de scripts
+Historia: (1.0, 28 de julio de 1993 - 5.4.6, 2 de mayo del 2023)
+Lua es un lenguaje de programación diseñado en Brasil a principios de la década de 1990 por un equipo liderado por Roberto Ierusalimschy, Luiz Henrique de Figueiredo y Waldemar Celes. El desarrollo de Lua comenzó en 1993 en la Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) como un proyecto de investigación para dar soporte a la programación avanzada para gráficos en 2D. 
+Inicialmente, Lua fue diseñado como un lenguaje de scripting para extender programas escritos en C, enfocado en la facilidad de uso, la eficiencia y la portabilidad. A lo largo de los años, Lua ha evolucionado y ha encontrado aplicaciones en una amplia variedad de campos, incluyendo videojuegos, software embebido, aplicaciones web y más, gracias a su flexibilidad, ligereza y facilidad de integración.
+Estado: Activo.
